@@ -4,6 +4,7 @@ Q1)
 Run the code in jupyter notebook or any other python compiler after installing the libraries, which is imported
 tkinter
 opencv
+\\
 Q2) 
 Run the code in jupyter notebook or any other python compiler after installing the libraries, which is imported. 
 Libraries:
