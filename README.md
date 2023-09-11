@@ -29,4 +29,6 @@ numpy<br />
 opencv<br />
 matplotlib<br />
 Include [thessd_mobilenet_v3_large_coco_2020_01_14.pbtxt](https://drive.google.com/file/d/1HtE2AtH05bJYXFqtKf93Sp9RoQ8qdOvb/view?usp=sharing), [Frozen_inference_graph.pb](https://drive.google.com/file/d/117_OkG6ZhCN1ou88cwK4S4Uld7KwfXNY/view?usp=drive_link) and [coco weight](https://drive.google.com/file/d/1yWgZLZdpUstGEWgp--O-nflTi0zwQGmf/view?usp=drive_link) which I have included in the zip file
+<br \>
+All these files are in [this](https://drive.google.com/drive/folders/1WhcGKE2XKg3zR3fSJlpvHHS30w4SFA8q?usp=drive_link)
 
