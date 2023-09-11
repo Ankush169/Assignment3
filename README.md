@@ -24,9 +24,9 @@ Use the image named ok1 and ok2<br />
 <br /> 
 Q4)
 <br /> 
-Run this in jupyter notebook or any other python compiler< br/>
-numpy< br/>
-opencv< br/>
-matplotlib< br/>
+Run this in jupyter notebook or any other python compiler<br />
+numpy<br />
+opencv<br />
+matplotlib<br />
 Include thessd_mobilenet_v3_large_coco_2020_01_14.pbtxt, coco file and frozen_inference_graph as well which I have included in the zip file
 
